@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/bean/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/cache/CacheAspect.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/cache/CacheType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/cache/DoubleCache.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/cache/ElParser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/caffeineDemo/CaffeineCacheConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/caffeineDemo/CaffeineRemoveListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/caffeineDemo/CaffeineStats.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/caffeineDemo/CaffeineTestCacheType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/caffeineDemo/CaffeineTestExpireType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/caffeineDemo/MyExpire.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/caffeineDemo/MyStatsCounter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/config/CaffeineConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/config/MyBatisPlusConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/config/RedisConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/controller/UserController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/mapper/UserMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/service/IUserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/service/MyMessageListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/java/cn/demo/caffeine/service/impl/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/caffeine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redis_lock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redis_lock/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

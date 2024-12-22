@@ -6,6 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="redis_lock (1)" />
+        <module name="caffeine" />
+      </profile>
+      <profile name="Annotation profile for redis_base" enabled="true">
+        <sourceOutputDir name="redis_lock/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="redis_lock/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
         <module name="redis_base" />
       </profile>
     </annotationProcessing>

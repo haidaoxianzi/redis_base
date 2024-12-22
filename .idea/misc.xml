@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/redis_lock/pom.xml" />
+        <option value="$PROJECT_DIR$/redis_lock/caffeine/pom.xml" />
       </list>
     </option>
   </component>
