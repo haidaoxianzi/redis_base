@@ -15,9 +15,10 @@ public class MyRedissonConfig {
     public RedissonClient redisson(){
         //1、创建配置
         Config config = new Config();
+        //todo wq123 config.use后面接的方法，这几个都需要调研下
         config.useSingleServer().setAddress("redis://127.0.0.1:6379");
       //  config.setLockWatchdogTimeout(1);//默认情况下，看门狗的检查锁的超时时间是30秒
-        //2、根据Config创建出RedissonClient实例
+        //2、根据Config 创建出 RedissonClient实例
         RedissonClient redisson = Redisson.create(config);
 
         return redisson;

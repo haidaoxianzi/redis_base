@@ -30,6 +30,7 @@ public class TestRedissionLock {
         ExecutorService executorService = Executors.newFixedThreadPool(clientCount);
         for (int i = 0;i<clientCount;i++){
             Long start = System.currentTimeMillis();
+            //todo 这里要指定线程池，不要用默认的forkjoinPool
             executorService.execute(() -> {
                 try {
                     //lock.lock(30, TimeUnit.SECONDS);
