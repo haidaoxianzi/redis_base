@@ -21,10 +21,6 @@ public class CaffeineConfig {
     }
 
 
-
-
-
-
     @Bean
     public CacheManager cacheManager(){
         CaffeineCacheManager cacheManager=new CaffeineCacheManager();
